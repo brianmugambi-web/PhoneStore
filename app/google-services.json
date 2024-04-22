@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957642466525",
+    "project_id": "dukastore-cb9bb",
+    "storage_bucket": "dukastore-cb9bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957642466525:android:2da25f1f94bd77d7b62734",
+        "android_client_info": {
+          "package_name": "com.example.dukastore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqFCjYleDHPPNkXjPbIVIxIddW4Ye750"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
